@@ -54,10 +54,10 @@ Segue anexo o faturamento referente aos serviços prestados. <br><br>
         
 Abaixo os dados bancários para depósito: <br><br>
         
-ATG AMERICAS TRADING GROUPS S/A <br>
-CNPJ 10.828.610/0001-31 <br>
-BANCO ITAÚ (341) <br>
-AG. 6179 CC. 99823-9 <br><br>
+Enterprise S/A <br>
+CNPJ XXX.XXX.XXX/0001-31 <br>
+BANK (341) <br>
+AG. XXXX CC. XXXX-X <br><br>
         
 Peço a gentileza de confirmar o recebimento. <br><br>
         
@@ -95,11 +95,11 @@ PLEASE WIRE FUNDS IN U.S. DOLLARS AND PROCEED INVOICE PAYMENT TO THE FOLLOWING A
         
 Wire instructions (USD) <br>
 Correspondent Bank: Standard Chartered Bank – New York – USA Swift <br>
-(BIC CODE): SCBLUS33XXX <br>
-Clearing Code: ABA: 026002561 CHIPS UID: 0256 Account number: 3544034644001 <br>
+(BIC CODE): XXXXXXX <br>
+Clearing Code: ABA: XXXXX CHIPS UID: XXXX Account number: XXXXXXX <br>
 Beneficiary Bank: Banco Santander (Brasil) S.A. <br>
-Swift (BIC CODE): BSCHBRSP <br>
-Beneficiary Name: 4207-13002483-0 ATG AMERICAS TRADING GROUP S/A <br>
+Swift (BIC CODE): XXXXX <br>
+Beneficiary Name: XXXXX-XXXX-XXXX Enterprise S/A <br>
 Reference: Invoice Number <br><br>
         
 ** THIS LOCATION DOES NOT ACCEPT CHECKS **  <br><br>
