@@ -9,7 +9,7 @@ import time
 
 # API KEY SENDGRID
 
-SENDGRID_KEY = '<api_key'
+SENDGRID_KEY = '<api_key>'
 sg = SendGridAPIClient(SENDGRID_KEY)
 sender = '<email>'
 
