@@ -9,9 +9,9 @@ import time
 
 # API KEY SENDGRID
 
-SENDGRID_KEY = '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'
+SENDGRID_KEY = '<api_key'
 sg = SendGridAPIClient(SENDGRID_KEY)
-sender = 'ets@americastg.com'
+sender = '<email>'
 
 dict_month = {
     '01': ['01', '1', 'Janeiro', 'jan', 'JANEIRO'],
