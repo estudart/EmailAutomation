@@ -4,9 +4,9 @@ from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import (Mail, From)
 import time
 
-SENDGRID_KEY = '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'
+SENDGRID_KEY = '<api_key'
 sg = SendGridAPIClient(SENDGRID_KEY)
-sender = 'ets@americastg.com'
+sender = '<email>'
 
 # Planilha que contém as contas para cada corretora
 accounts_register = pd.read_excel("P:\Python ETS\Cadastro de contas e usuarios\planilha_envio.xlsx")
