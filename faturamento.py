@@ -8,9 +8,9 @@ from unidecode import unidecode
 from tkinter import messagebox, ttk, Label, Button
 import tkinter as tk
 
-SENDGRID_KEY = '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'
+SENDGRID_KEY = '<api_key>'
 sg = SendGridAPIClient(SENDGRID_KEY)
-sender = 'faturamento@americastg.com'
+sender = '<email>'
 
 # emails_df = pd.read_excel("Z:\Controladoria\Faturamento\1. ATG\Clientes\Cadastro_emails_ATG.xlsx")
 
